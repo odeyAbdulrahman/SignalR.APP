@@ -1,0 +1,34 @@
+﻿{
+  "ResponseMessageAr": {
+    "Processed": "تم معالجة السجل بنجاح",
+    "OK": "تم بنجاح",
+    "Created": "تم انشاء السجل بنجاح",
+    "Updated": "تم تعديل السجل بنجاح",
+    "Deleted": "تم نقل السجل الي سلة المهملات",
+    "Archived": "تم ارشفى السجل بنجاح",
+    "Actived": "تم تفعيل السجل بنجاح",
+    "Recoverd": "تم تنشيط السجل بنجاح",
+    "Restored": "تم استعادة السجل بنجاح",
+    "Uploaded": "تم رفع الملف بنجاح",
+    "Sended": "تم إرسال السجل بنجاح",
+    "FileDownloaded": "تم تنزيل الملف بنجاح",
+
+    "NotCreated": "لم يتم انشاء السجل",
+    "NotUpdated": "لم يتم تعديل السجل",
+    "NotDeleted": "لم يتم نقل السجل الي سلة المهملات",
+    "NotArchived": "لم يتم ارشفة السجل",
+    "NotActived": "لم يتم تفعيل السجل",
+    "NotRecoverd": "لم يتم استعادة السجل",
+    "NotRestored": "لم يتم استعادة السجل",
+    "NotUploaded": "لم يتم رفع الملف",
+
+    "NotSended": "لم يتم إرسال السجل",
+    "NotFound": "لا يوجد سجل مشابه",
+    "NotAccept": "العملية غير مقبولة",
+    "NullOrEmpty": "Null Or Empty",
+    "LargeSize": "عذرًا، لا يمكن تحميل الملف . حجم الملف الذي قمت بمحاولة تحميله أكبر من الحد الأقصى المسموح به",
+    "IsNotImage": "الملف ليسه صوره",
+    "IsNotFile": "لم يتم تحميل الملف.",
+    "ValidationNotValid": "Validation Not Valid"
+  }
+}

@@ -1,0 +1,14 @@
+version: '3.4'
+services:
+  signalR_api_management:
+    image: $IMAGE_NAME:latest
+    build:
+      context: .
+      dockerfile: SignalR.API/Dockerfile
+    networks:
+      - muns_network
+ 
+      
+networks:
+  My_network:
+      driver: bridge

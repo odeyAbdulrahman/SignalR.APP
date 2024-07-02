@@ -1,0 +1,35 @@
+{
+  "profiles": {
+    "SignalR.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:8011;http://localhost:411",
+      "useSSL": true
+    }, // 
+    "SignalR.API-Staging": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging",
+        "ASPNETCORE_DETAILEDERRORS": "1",
+        "ASPNETCORE_SHUTDOWNTIMEOUTSECONDS": "3"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:8011;https://localhost:411"
+    },
+    "SignalR.API-Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "applicationUrl": "http://localhost:8011;https://localhost:411",
+      "dotnetRunMessages": true
+    }
+  }
+}

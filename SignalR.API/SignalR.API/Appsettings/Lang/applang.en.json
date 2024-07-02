@@ -1,0 +1,9 @@
+﻿{
+  "ResponseMessageEn": {
+    "Processed": "The record processed successfully.",
+    "OK": "Successfully.",
+    "Created": "The record create successfully.",
+    "Updated": "The record Updated successfully.",
+    "Deleted": "The record has been moved to the trash."
+  }
+}
