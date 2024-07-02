@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SignalR.API/obj/Docker
+/SignalR.API/.vs/SignalR.API/v17
+/SignalR.API/.vs/SignalR.API/FileContentIndex
+/SignalR.API/.vs/ProjectEvaluation
